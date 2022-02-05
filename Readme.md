@@ -5,7 +5,7 @@
 | Tech | Reason |
 | :-: | :-: |
 | Mockgen | Test |
-| CSS | TailwindCss |
+| TailwindCss | CSS |
 | Viper | Configurations |
 | go-bindata | Binary Assets |
 
