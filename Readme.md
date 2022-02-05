@@ -1,5 +1,14 @@
 # Gin Layout Boilerplate
 
+## Tech Stack
+
+| Tech | Reason |
+| :-: | :-: |
+| Mockgen | Test |
+| CSS | TailwindCss |
+| Viper | Configurations |
+| go-bindata | Binary Assets |
+
 ## Manual Installation
 Go `assetsbuild` and install dependencies
 ```sh
